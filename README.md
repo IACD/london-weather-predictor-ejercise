@@ -192,9 +192,9 @@ Walmart / Stefanini México
 
 ## 🙏 Acknowledgments
 
-- **Dataset:** London Weather (1979-2020) - Met Office UK / Kaggle
+- **Dataset:** London Weather (1979-2020)
 - **Methodology:** Model Card framework (Mitchell et al., 2019)
-- **Guidelines:** Walmart/Stefanini Data Science Standards
+- **Guidelines:** Data Science Standards
 
 ---
 
