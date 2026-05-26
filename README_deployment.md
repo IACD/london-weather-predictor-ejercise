@@ -98,6 +98,6 @@ print(f"Predicted mean temperature: {y_pred:.2f}°C")
 
 ---
 
-**Last Updated:** May 24, 2026  
+**Last Updated:** May 25, 2026  
 **Model Version:** 1.0.0  
 **Status:** PRODUCTION-READY
