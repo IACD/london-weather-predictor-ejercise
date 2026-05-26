@@ -45,3 +45,18 @@ mlruns/
 .env
 *.key
 credentials.json
+
+# Notebooks temporales y respaldos
+excersises.ipynb
+excersises3.ipynb
+*copy*.ipynb
+
+# Archivos de prueba
+test_case_*.txt
+pngs/
+
+# Documentos Word
+*.docx
+
+# CSVs intermedios (mantener solo data/processed/)
+london_weather_cleaned.csv
